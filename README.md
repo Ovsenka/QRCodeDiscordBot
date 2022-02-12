@@ -1,4 +1,4 @@
-# QrCodeBot-xyZ
+# QrCodeBot for Discord
 - This is a Discord bot that will provide a QR Code to your Axie Infinity scholars.
 - This version of the bot is compatible with ronin!
 
